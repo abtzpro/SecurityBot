@@ -1,5 +1,5 @@
 # SecurityBot
-Sec mode GPT - A python script to pass all input through GPT 5 and into Sec or SecurityBot mode
+Sec mode GPT - A python script to pass all input through GPT 3 and into Sec or SecurityBot mode
 
 a Python script that allows a user to activate chatGPT as "Sec" aka SecurityBot whenever they want. The script uses the OpenAI API and the GPT-3 language model to analyze and respond to security-related queries from the user.
 
