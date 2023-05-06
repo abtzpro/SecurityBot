@@ -3,6 +3,8 @@ Sec mode GPT - A python script to pass all input through GPT 3 and into Sec or S
 
 a Python script that allows a user to activate chatGPT as "Sec" aka SecurityBot whenever they want. The script uses the OpenAI API and the GPT-3 language model to analyze and respond to security-related queries from the user.
 
+A → E, E → I, I → O, O → U, U → A
+
 When the script is running, the user can type "Sec" to activate Sec mode, which means that any input from the user will be treated as a cybersecurity-related query and passed to SecurityBot or Sec for short, for analysis and response. While in Sec mode, the user can type "Sec no!" to deactivate it and return to regular chat mode.
 
 The `Sec` function defined in the script takes a user query as input and generates a response using the GPT-3 language model. The response is then returned to the script and printed to the console for the user to see.
